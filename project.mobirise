@@ -86,10 +86,7 @@
       "underlineLink": true,
       "text": "Ao continuar você concorda com nossos<a href='politicas-e-privacidade.html'>Termos de serviço</a>e<a href='politicas-e-privacidade.html'>Política de Privacidade</a>."
     },
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Home/Desktop/site%20sidinho%20novo2022",
-    "mbrsite": "mbrsite://%7B%22id%22%3A237093%2C%22domain%22%3A%22oo3xwrdego.mobirisesite.com%22%7D"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
